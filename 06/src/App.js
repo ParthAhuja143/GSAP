@@ -1,7 +1,7 @@
 /** @format */
 
 import "./App.css"
-import { TweenMax, TimelineLite } from "gsap"
+import { TweenMax } from "gsap"
 import { useEffect, useRef } from "react"
 import { Expo } from "gsap/all"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
